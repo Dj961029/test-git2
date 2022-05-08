@@ -4,5 +4,6 @@ public class git {
 	public static void main(String[] args) {
 		System.out.println("git1..........success3");
 		System.out.println("git------hot-fix");
+		System.out.println("master------合并冲突");
 	}
 }
