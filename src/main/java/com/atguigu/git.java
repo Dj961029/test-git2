@@ -7,5 +7,6 @@ public class git {
 		System.out.println("master------合并冲突");
 		System.out.println("git------hot-fix2 to 冲突合并");
 		System.out.println("idea push ....");
+		System.out.println("github 上的代码");
 	}
 }
